@@ -1,0 +1,59 @@
+
+.title{
+    border: 2px solid wheat;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+
+.main{
+
+    border: 2px solid grey;
+    background-color: whitesmoke;
+    border-radius: 7px;
+    width: 200px;
+    margin: 0px auto;
+    margin-top: 4em;
+
+}
+
+.result{
+    width: 96%;
+    background-color: gray;
+    color: rgb(255, 255, 255);
+}
+
+.clearbtn{
+    width: 100%;
+    margin-top: 10px;
+    background-color: red;
+    font-weight: bold;
+}
+.clearbtn:hover{
+    background-color: rgb(158, 94, 94);
+    color: whitesmoke;
+}
+
+.btn{
+    background-color: wheat;
+    width: 47px;
+    margin-top: 17px;
+    font-weight: bold;
+}
+
+.btn:hover{
+    background-color: rgb(151, 116, 76);
+    color: white;
+}
+
+.halfbtn{
+    background-color: wheat;
+    width: 64px;
+    margin-top: 18px;
+    font-weight: bold;
+}
+
+.halfbtn:hover{
+    background-color: rgb(151, 116, 76);
+    color: white;
+}
